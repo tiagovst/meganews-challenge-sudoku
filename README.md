@@ -20,7 +20,7 @@ O programa foi construído com:
 ### Por que essas tecnologias foram adotadas?
 
 - A linguagem Java foi utilizada devido a familiaridade com suas estruturas e sintaxe. Além disso, ela também possibilita
-o desenvolvimento ....
+o desenvolvimento em plataforma independente, com grande comunidade ativa e bibliotecas ricas. 
 - A biblioteca JavaFX foi escolhida, pois, através dela (juntamente com a ferramenta Scene Builder), é possível
 criar aplicações do lado do cliente de forma rica e com vasta personalizações, permitindo um visual mais agradável.
 - O CSS foi escolhido a fim de complementar a biblioteca citada anteriormente, no intuito de melhor organizar e
